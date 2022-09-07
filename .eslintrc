@@ -1,0 +1,6 @@
+{
+    "extends": "hjh",
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    }
+}

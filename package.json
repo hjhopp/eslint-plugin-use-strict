@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-use-strict",
+  "version": "1.0.0",
+  "description": "Enforce 'use strict' expression at top of CommonJS files",
+  "main": "rules/index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "strict"
+  ],
+  "author": "Hanno Hopp",
+  "repository": "hjhopp/eslint-plugin-use-strict",
+  "bugs": {
+    "url": "https://github.com/hjhopp/eslint-plugin-use-strict/issues"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-hjh": "github:hjhopp/eslint-config-hjh",
+    "mocha": "^10.0.0"
+  }
+}
