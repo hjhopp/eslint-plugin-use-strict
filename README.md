@@ -9,8 +9,9 @@ The plugin will add it for you if it isn't there already.
 ```
 // .eslintrc
 {
+    "plugins" : ["use-strict"],
     "rules" : {
-        "use-strict-at-top-of-document" : "error"
+        "use-strict/use-strict-at-top-of-document" : "error"
     }
 }
 ```
