@@ -11,7 +11,7 @@
     "eslint-plugin",
     "strict"
   ],
-  "author": "Hanno Hopp",
+  "author": "Hanno Hopp <https://github.com/hjhopp>",
   "repository": "hjhopp/eslint-plugin-use-strict",
   "bugs": {
     "url": "https://github.com/hjhopp/eslint-plugin-use-strict/issues"
